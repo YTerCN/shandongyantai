@@ -17,7 +17,7 @@ public class User {
     private String createTime;
     private String createBy;
     private String editTime;
-
+    private String editBy;
 
 
 }
